@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.13cb4738.css",
-    "main.js": "/Portfolio/static/js/main.0819ed44.js",
-    "static/media/portfolio-img2.png": "/Portfolio/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
-    "static/media/portfolio-img3.png": "/Portfolio/static/media/portfolio-img3.e2bf250541b961cca642.png",
+    "main.js": "/Portfolio/static/js/main.04978fba.js",
+    "static/media/portfolio-img3.png": "/Portfolio/static/media/portfolio-img3.b3cca06197115fca21ba.png",
+    "static/media/portfolio-img2.png": "/Portfolio/static/media/portfolio-img2.0cc88a94caf7f46ac9d1.png",
     "static/media/site-bg.jpg": "/Portfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
     "static/media/portfolio-img1.png": "/Portfolio/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "static/media/S.R Samarathunga.pdf": "/Portfolio/static/media/S.R Samarathunga.ead27dcfc2ba17e72471.pdf",
     "static/media/avatar.svg": "/Portfolio/static/media/avatar.164112787e93bd43e422dd8c2b0fc79d.svg",
     "static/media/about.png": "/Portfolio/static/media/about.0c4e77c6b107cdad9e6c.png",
     "static/media/services.png": "/Portfolio/static/media/services.8e66d4fbbd95de45b8db.png",
-    "static/media/logo.svg": "/Portfolio/static/media/logo.5088a549475f28654ed9869f04a40b44.svg",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.0961883d26c42334fb620d33dd0af97e.svg",
     "index.html": "/Portfolio/index.html",
     "main.13cb4738.css.map": "/Portfolio/static/css/main.13cb4738.css.map",
-    "main.0819ed44.js.map": "/Portfolio/static/js/main.0819ed44.js.map"
+    "main.04978fba.js.map": "/Portfolio/static/js/main.04978fba.js.map"
   },
   "entrypoints": [
     "static/css/main.13cb4738.css",
-    "static/js/main.0819ed44.js"
+    "static/js/main.04978fba.js"
   ]
 }
